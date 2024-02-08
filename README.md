@@ -40,7 +40,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/example/paginator"
+	"github.com/otyang/go-paginator"
 )
 
 type User struct {
