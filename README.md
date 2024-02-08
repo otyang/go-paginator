@@ -1,4 +1,4 @@
-## paginator package - Read Me
+# go-paginator
 
 This package provides `PagerInfo` and related functionalities for efficient data pagination with cursors in Go applications.
 
@@ -74,7 +74,4 @@ func main() {
 }
 ```
 
-This package provides a powerful and versatile solution for managing pagination with cursors in Go applications, making it easier to handle and present large datasets efficiently.
-# x-paginator
-# go-paginator
-# go-paginator
+This package provides a powerful and versatile solution for managing pagination with cursors in Go applications, making it easier to handle and present large datasets efficiently. 
